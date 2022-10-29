@@ -145,7 +145,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-site-plugin</artifactId>
-				<version>3.4</version>
+				<version>3.12.1</version>
 				<configuration>
 					<reportPlugins>
 						<!-- Information about the project -->
@@ -202,7 +202,7 @@
 						<plugin>
 							<groupId>org.apache.maven.plugins</groupId>
 							<artifactId>maven-pmd-plugin</artifactId>
-							<version>3.4</version>
+							<version>3.12.1</version>
 							<configuration>
 								<linkXref>true</linkXref>
 								<sourceEncoding>utf-8</sourceEncoding>
